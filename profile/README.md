@@ -10,8 +10,7 @@
 
 &nbsp;
 ## 💘 We:meet [2022.06 ~ ]
-<img src="https://github.com/SWM-E2I/.github/assets/99247279/1268029b-5566-4822-b126-919e0bb80628" title="we:meet"/>
 
-> **We:meet** (위밋) 프로젝트는 대학생 미팅 서비스입니다. </br> 안전한 인증과 개인 맞춤형 추천 시스템으로 대학생끼리의 건전한 만남과 추억을 선사하고자 합니다.
+<img src="https://github.com/SWM-E2I/.github/assets/99247279/e8f952d1-312c-440c-96dc-c1133adaea30" title="we:meet"/>
 
 &nbsp;
