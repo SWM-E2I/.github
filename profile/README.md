@@ -10,7 +10,13 @@
 
 &nbsp;
 ## 💘 We:meet [2022.06 ~ ]
+<img width="600" alt="Frame 4861" src="https://github.com/SWM-E2I/.github/assets/99247279/956cddfc-4c1a-4244-a1f8-83966586f04e">
 
+#### we:meet이 App Store과 Play Store에 출시되었습니다! 다음에 링크를 통해 앱을 다운받고, 서비스를 이용해보세요😄
+- 🍎AppStore http://bit.ly/45e4wiR
+- 🍏PlayStore https://play.google.com/store/apps/details?id=net.andrewjsy.wemeet
+
+## What Is we:meet
 <img src="https://github.com/SWM-E2I/.github/assets/99247279/e8f952d1-312c-440c-96dc-c1133adaea30" title="we:meet"/>
 
 &nbsp;
